@@ -1,4 +1,7 @@
 @media (max-width: 768px){
+    #page{
+        min-width: auto;
+    }
     #header{
         background-size: cover;
         height: 100%;
