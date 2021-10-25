@@ -7,6 +7,10 @@
         height: 100%;
         background-position: center;
     }
+    #header .leftText p {
+        float: none;;
+        margin-bottom: 20px;
+    }
     #header .ce{
         display: flex;
         flex-direction: column;
@@ -14,11 +18,14 @@
     }
     #header .ce h2{
         width: 100%;
-        display: contents;
+        text-align: center;
         
     }
     .leftText{
         width: 100%;
         text-align: center;
+    }
+    #header h1{
+        margin-bottom: 20px;
     }
 }
