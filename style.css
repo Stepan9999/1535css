@@ -1,0 +1,21 @@
+@media (max-width: 768px){
+    #header{
+        background-size: cover;
+        height: 100%;
+        background-position: center;
+    }
+    #header .ce{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #header .ce h2{
+        width: 100%;
+        display: contents;
+        
+    }
+    .leftText{
+        width: 100%;
+        text-align: center;
+    }
+}
